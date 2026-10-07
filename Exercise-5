@@ -1,0 +1,26 @@
+Final Output
+● ● ● localhost:3000
+My App
+Home | About | Contact
+Welcome to My React App
+Ravi
+Hello Ravi
+npm start — app after both branches are merged
+● ● ● github.com/username/myapp/branches
+main (default)
+feature/navbar
+feature/form
+GitHub → Branches
+● ● ● github.com/username/myapp/pulls
+✓ Merged
+Add navbar component
+GitHub → Pull requests → Closed
+Merge vs Pull Request
+git merge (Part 6) Pull Request (Part 5)
+Where Your computer (terminal) GitHub website (buttons)
+Review No review Team can review & comment first
+After git push to upload git pull to download
+Used in Solo / small projects Real teams & companies
+RESULT
+A React app was created with create-react-app and pushed to GitHub. node_modules was excluded
+using .gitignore. Two branches (feature/navbar and feature/form) were created and merged into main
